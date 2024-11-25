@@ -20,3 +20,16 @@ img {
 p {
     padding: 10px;
 }
+aside {
+    width: 150px;
+    margin: 1rem;
+    border:1px solid black;
+    padding: 2px;
+    background-color:darkblue;
+    color:white;
+    text-align: center;
+}
+aside img {
+    width: 200px;
+    height: auto;
+}
